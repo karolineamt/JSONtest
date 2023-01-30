@@ -1,0 +1,10 @@
+{
+    "Biler":[{"Forkortelse" : "VW",
+    "bilmerke" : "Volkswagen"}
+    {"Forkortelse" : "BMW",
+    "bilmerke" : "Bayerische Motoren Werke"}
+    {"Forkortelse" : "Audi",
+    "bilmerke" : "Audi"}
+    {"Forkortelse" : "Toyota",
+    "bilmerke" : "Toyota"}]
+}
